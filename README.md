@@ -1,4 +1,4 @@
-##Jobs Portal
+## Jobs Portal
 Project written in PHP framework Laravel using Code first method for populating database with tables.
 For database is used MySQL.
 
