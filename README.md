@@ -1,3 +1,11 @@
+##Jobs Portal
+Project written in PHP framework Laravel using Code first method for populating database with tables.
+For database is used MySQL.
+
+Web application is used for posting jobs and open positions in companies and other businesses. 
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
